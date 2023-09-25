@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pavanam&display=swap');
+
+.contImgCarr{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+}
+.imgArrowID{
+    width: 120px;
+    height: 90px;
+    transition: transform 0.5s;
+}
+.imgArrowID:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
+.imgID{
+    width: 1200px;
+    height: 600px;
+}
+.containerTitleID{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px 260px;
+    width: 1000px;
+    padding: 20px;
+}
+.priceID{
+    color: #1C2138;
+    font-family: Patua One;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+.titleID{
+    color: #1C2138;
+    font-family: Patua One;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+.containerButton{
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    justify-content: end;
+    gap: 10px;
+}
+.buttonID{
+    width: 70px;
+    height: 70px;
+    border: none;
+    border-radius: 10px;
+    background: #233AA1;
+}
+.rec{
+    width: 200px !important;
+}
+.contItemsID{
+    display: flex;
+    flex-direction: row;
+    margin: 0px 270px;
+    width: 1000px;
+    gap: 15px;
+}
+.itemsCardID{
+    display: flex;
+    flex-direction: row;
+    gap: 7px;
+}
+.imgCaracCardID{
+    width: 30px;
+    height: 30px;
+}
+.caracCardID{
+    color: #000;
+    font-family: Pavanam;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+.containerUbiText{
+    display: flex;
+    flex-direction: row;
+    margin: 0px 270px;
+    width: 1000px;
+}
+.containerUbi{
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    margin: auto;
+}
+.ubiText{
+    color: #000;
+    font-family: Pavanam;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 10px 0px;
+}
+.containerCaract{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin: 0;
+}
+.listCaract{
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+.textListCaract{
+    color: #000;
+    font-family: Pavanam;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 5px 0px;
+}
+.ubicacionID{
+    width: 600px;
+    height: 230px;
+    border-radius: 5px;
+}
+.frameUbi{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.buttonVer{
+    display: flex;
+    background: none;
+    border: none;
+    color: #1C2138;
+    font-family: Patua One;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 20px auto;
+}
+.arrowCarac{
+    width: 30px;
+    height: 40px;
+    margin: 0px 5px;
+}
+.titleCarr{
+    color: #1C2138;
+    font-family: Patua One;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+    text-align: center;
+    margin: 60px 0 30px 0;
+}
+.textButtonID{
+    color: #ffffff;
+    font-family: Patua One;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}

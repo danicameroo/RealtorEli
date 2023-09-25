@@ -1,0 +1,112 @@
+.CardCarr{
+    width: 500px;
+    height: 380px;
+    border: none;
+    margin-bottom: 80px;
+}
+.containerImgCarr{
+    height: 296px;
+}
+.imgCardCarr{
+    width: 500px;
+    height: 300px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.textCardCarr{
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding-left: 20px;
+    border: 1px solid #233AA1;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 478px;
+}
+.titleCardCarr{
+    color: #1C2138;
+    font-family: Patua One;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+.contItemsCarr{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+.itemsCardCarr{
+    display: flex;
+    flex-direction: row;
+    gap: 7px;
+}
+.imgCaracCardCarr{
+    width: 18px;
+    height: 18px;
+}
+.caracCardCarr{
+    color: #000;
+    font-family: Pavanam;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+.descCardCarr{
+    color: #000;
+    font-family: Pavanam;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+.containerTwoCarr{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 50px;
+}
+.priceCardCarr{
+    color: #1C2138;
+    font-family: Patua One;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+.contButtonCardCarr{
+    margin-right: 20px;
+    display: flex;
+    flex-direction: row;
+    z-index: 9999;
+    align-items: start;
+}
+.textButtonCardCarr{
+    color: #ffffff;
+    font-family: Patua One;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+.buttonCardCarr{
+    width: 40px;
+    height: 40px;
+    background: #233AA1;
+    border: none;
+    border-radius: 10px;
+    margin: 0 5px;
+}
+.extenButtonCarr{
+    width: 80px !important;
+}
+.iconCardCarr{
+    width: 19px;
+    height: 19px;
+}

@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pavanam&display=swap');
+
+.NavBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 100px;
+}
+.logoNav{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.titleNav{
+    font-family: 'Passion One', cursive;
+    font-size: 44px;
+    color: white;
+    font-weight: 100;
+    margin: 0;
+}
+.esloganNav{
+    font-family: 'Patua One', cursive;
+    font-size: 22px;
+    color: #ffffff;
+    margin: 0;
+}
+.seccionesContNav{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 500px;
+    padding: 0;
+}
+.seccionesNav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 40px;
+    width: 500px;
+    padding: 0;
+}
+.link{
+    text-decoration: none;
+    list-style: none;
+    color: rgb(255, 255, 255);
+}
+.seccNav{
+    font-family: Patua One;
+    font-size: 26px;
+}
+.containerButtonNav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
+}
+.buttonNav{
+    width: 60px;
+    height: 60px;
+    border-radius: 15px;
+    border: none;
+    background-color: #ffffff;
+}
+.iconoNav{
+    padding-left: 7px;
+    padding-right: 7px;
+    width: 35px;
+    height: 35px;
+}
+
+
+/*PHONE*/
+@media (min-width: 300px) and (max-width: 500px) {
+    .NavBar {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        height: 100px;
+      }
+      
+      .logoNav {
+        display: flex;
+        flex-direction: column;
+        width: 300px;
+        justify-content: center;
+        text-align: center;
+      }
+      
+      .titleNav {
+        font-family: 'Passion One', cursive;
+        font-size: 26px;
+        color: white;
+        font-weight: 100;
+        margin: 20px 0px 0px 0px;
+      }
+      
+      .esloganNav {
+        font-family: 'Patua One', cursive;
+        font-size: 14px;
+        color: #ffffff;
+        margin: 0;
+      }
+      
+      .seccionesContNav {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 200px;
+        padding: 0;
+      }
+      
+      .seccionesNav {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 6px;
+        width: 200px;
+        padding: 0;
+      }
+      
+      .link {
+        text-decoration: none;
+        list-style: none;
+        color: rgb(255, 255, 255);
+      }
+      
+      .seccNav {
+        font-family: Patua One;
+        font-size: 15px;
+      }
+      .containerButtonNav {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 8px;
+        width: 300px; 
+        margin-top: auto; 
+      }
+      
+      .buttonNav {
+        width: 25px;
+        height: 25px;
+        border-radius: 7px;
+        border: none;
+        background-color: #ffffff;
+      }
+      
+      .iconoNav {
+        padding-left: 0px;
+        padding-right: 0px;
+        width: 15px;
+        height: 15px;
+      }
+}

@@ -1,0 +1,49 @@
+.contCarc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+.Carac{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 1050px;
+    height: 400px;
+    margin: auto;
+    justify-content: center;
+}
+.containerCarac{
+    display: flex;
+    flex-direction: row;
+}
+.containerTitle{
+    background-color: #A1A497;
+    border: 1px solid #00000083;
+    width: 250px;
+    height: 60px;
+}
+.containerRes{
+    background-color: #F3F3F3;
+    border: 1px solid #00000083;
+    width: 250px;
+    height: 60px;
+}
+.titleCarac{
+    color: #1C2138;
+    text-align: center;
+    font-family: Patua One;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.resCarac{
+    color: #1C2138;
+    text-align: center;
+    font-family: Patua One;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

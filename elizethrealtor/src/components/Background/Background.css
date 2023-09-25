@@ -1,0 +1,21 @@
+.Background{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60%;
+    background: linear-gradient(to bottom, #233AA1, #ffffff);
+    z-index: -1;
+}
+/*PHONE*/
+@media (min-width: 300px) and (max-width: 500px) {
+.Background{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, #233AA1, #ffffff);
+    z-index: -1;
+}
+}

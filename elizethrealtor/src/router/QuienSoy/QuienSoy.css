@@ -1,0 +1,30 @@
+.contCarrQuienSoy{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.textCarrQuienSoy{
+    color: #233AA1;
+    text-align: center;
+    font-family: Patua One;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 70px;
+}
+.buttonQuienSoy{
+    height: 60px;
+    width: 260px;
+    border: none;
+    border-radius: 10px;
+    background: #233AA1;
+    color: white;
+    text-align: center;
+    font-family: Patua One;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: normal;
+    margin: 20px auto 100px auto;
+}

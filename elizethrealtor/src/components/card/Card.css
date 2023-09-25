@@ -1,0 +1,227 @@
+.Card{
+    width: 600px;
+    height: 550px;
+    border: none;
+    margin-bottom: 30px;
+}
+.containerImg{
+    height: 396px;
+}
+.imgCard{
+    width: 600px;
+    height: 400px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.textCard{
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding-left: 20px;
+    border: 1px solid #233AA1;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 578px;
+}
+.titleCard{
+    color: #1C2138;
+    font-family: Patua One;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+.contItems{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+.itemsCard{
+    display: flex;
+    flex-direction: row;
+    gap: 7px;
+}
+.imgCaracCard{
+    width: 22px;
+    height: 22px;
+}
+.caracCard{
+    color: #000;
+    font-family: Pavanam;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+.descCard{
+    color: #000;
+    font-family: Pavanam;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+.containerTwo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 50px;
+}
+.priceCard{
+    color: #1C2138;
+    font-family: Patua One;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+.contButtonCard{
+    margin-right: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+}
+.textButtonCard{
+    color: #ffffff;
+    font-family: Patua One;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+.buttonCard{
+    width: 40px;
+    height: 40px;
+    background: #233AA1;
+    border: none;
+    border-radius: 10px;
+    margin: 0 5px;
+}
+.extenButton{
+    width: 80px !important;
+}
+.iconCard{
+    width: 23px;
+    height: 23px;
+}
+
+/*PHONE*/
+@media (min-width: 300px) and (max-width: 500px) {
+.Card{
+    width: 300px;
+    height: 300px;
+    border: none;
+    margin-bottom: 10px;
+}
+.containerImg{
+    height: 200px;
+}
+.imgCard{
+    width: 300px;
+    height: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.textCard{
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding-left: 10px;
+    border: 1px solid #233AA1;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 288px;
+}
+.titleCard{
+    color: #1C2138;
+    font-family: Patua One;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+.contItems{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 7px;
+}
+.itemsCard{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+.imgCaracCard{
+    width: 12px;
+    height: 12px;
+}
+.caracCard{
+    color: #000;
+    font-family: Pavanam;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+.descCard{
+    color: #000;
+    font-family: Pavanam;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+.containerTwo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 35px;
+}
+.priceCard{
+    color: #1C2138;
+    font-family: Patua One;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+.contButtonCard{
+    margin-right: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+}
+.textButtonCard{
+    color: #ffffff;
+    font-family: Patua One;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+.buttonCard{
+    width: 25px;
+    height: 25px;
+    background: #233AA1;
+    border: none;
+    border-radius: 7px;
+    margin: 0 3px;
+}
+.extenButton{
+    width: 60px !important;
+}
+.iconCard{
+    width: 15px;
+    height: 15px;
+}
+}

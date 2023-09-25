@@ -1,0 +1,17 @@
+.containerCarr{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.buttonCarr{
+    background: none;
+    border: none;
+}
+.Carr{
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    overflow: hidden;
+    justify-content: center;
+    gap: 20px;
+}

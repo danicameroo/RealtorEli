@@ -1,0 +1,61 @@
+.Vender{
+    background-image: url('../../img/imgTwo.png');
+    background-size: 100%;
+    background-position: center;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 150px;
+}
+.contVender{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+.titleVender{
+    color: #233AA1;
+    text-align: center;
+    text-shadow: 10px 10px 100px #FFF;
+    font-family: Patua One;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 800px;
+    margin: auto;
+}
+.textVender{
+    color: #1C2138;
+    text-align: center;
+    text-shadow: 10px 10px 100px #FFF;
+    font-family: Patua One;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 800px;
+    margin: auto;
+}
+.containerButtonVender{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-top: 20px;
+    justify-content: center;
+}
+.buttonVender{
+    height: 50px;
+    width: 190px;
+    border: none;
+    border-radius: 10px;
+    background: #233AA1;
+    color: white;
+    text-align: center;
+    font-family: Patua One;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: normal;
+}
