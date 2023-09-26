@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RealtorEli/static/css/main.303b4f1b.css",
-    "main.js": "/RealtorEli/static/js/main.095c1ce3.js",
+    "main.css": "/RealtorEli/static/css/main.5a32d9da.css",
+    "main.js": "/RealtorEli/static/js/main.7c2c7d2b.js",
     "static/js/787.32c1add1.chunk.js": "/RealtorEli/static/js/787.32c1add1.chunk.js",
     "static/media/backgroundStart.png": "/RealtorEli/static/media/backgroundStart.477ea9578e2bbc65e98b.png",
     "static/media/imgTwo.png": "/RealtorEli/static/media/imgTwo.b504ca9a682591294f27.png",
@@ -29,12 +29,12 @@
     "static/media/emailFoot.svg": "/RealtorEli/static/media/emailFoot.39a85f861b15ad529715923a9f1c538e.svg",
     "static/media/horizontal.svg": "/RealtorEli/static/media/horizontal.873e3b5fb406a7bdbb2866d473e7b6ee.svg",
     "static/media/vertical.svg": "/RealtorEli/static/media/vertical.ab9605dd0a354fb5cc6c795e67cb39ec.svg",
-    "main.303b4f1b.css.map": "/RealtorEli/static/css/main.303b4f1b.css.map",
-    "main.095c1ce3.js.map": "/RealtorEli/static/js/main.095c1ce3.js.map",
+    "main.5a32d9da.css.map": "/RealtorEli/static/css/main.5a32d9da.css.map",
+    "main.7c2c7d2b.js.map": "/RealtorEli/static/js/main.7c2c7d2b.js.map",
     "787.32c1add1.chunk.js.map": "/RealtorEli/static/js/787.32c1add1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.303b4f1b.css",
-    "static/js/main.095c1ce3.js"
+    "static/css/main.5a32d9da.css",
+    "static/js/main.7c2c7d2b.js"
   ]
 }
